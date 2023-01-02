@@ -20,3 +20,5 @@ Additional Notes for using and modifying the velocity script:
 ![image](https://user-images.githubusercontent.com/20539123/210195092-29765b6d-f4b5-4b41-a4e1-0033f5ca7f97.png)
 
 3. "$lead.customTimeZone" is a custom time zone field. Make sure to update the field name in the script with the field specific to your instance. If you do not have a custom field for storing the person time zone created in your instance, then you could remove it from the code.
+
+Script Reference - Marketing Nation Community Blog by SanfordWhiteman
