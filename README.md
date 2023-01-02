@@ -21,4 +21,4 @@ Additional Notes for using and modifying the velocity script:
 
 3. "$lead.customTimeZone" is a custom time zone field on the person object in Marketo. Make sure to update the field name in the script with the field specific to your instance. If you do not have a custom field for storing the person time zone created in your instance, then you could remove it from the code.
 
-Script Reference - Marketing Nation Community Blog by SanfordWhiteman
+Script Reference - Marketing Nation Community Blog by SanfordWhiteman and [Velocity Script User Guide](http://velocity.apache.org/engine/devel/user-guide.html)
