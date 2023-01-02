@@ -1,5 +1,5 @@
 # Marketo_Dynamic-Person-Time-Zone-Year
-This repository contains the velocity script for displaying the correct year in the emails in marketo emails.
+This repository contains the velocity script for displaying the correct year in the marketo emails.
 
 How to use?
 
