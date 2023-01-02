@@ -3,7 +3,7 @@ This repository contains the velocity script for displaying the correct year in 
 
 How to use?
 
-The [velocity script](https://github.com/dhs123/Marketo_Dynamic-Person-Time/blob/main/person_time_zone_VS) contains the code snippet to display the year dynamically in an email. 
+The [velocity script](https://github.com/dhs123/Marketo_Dynamic-Person-Time/blob/main/dynamicCopyrightYear_Script) contains the code snippet to display the year dynamically in an email. 
 
 Instructions for adding code in Marketo Emails:
 1. Copy the velocity script.
