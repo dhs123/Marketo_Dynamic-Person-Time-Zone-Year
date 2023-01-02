@@ -1,4 +1,4 @@
-#set( $defaultTimeZone = "Asia/Kolkata" ) #update the default/fall-back time zone if required as per the IANA timezone directory
+#set( $defaultTimeZone = "Asia/Kolkata" ) ##update the default/fall-back time zone if required as per the IANA timezone directory
 #set( $personTimeZones = [$lead.customTimeZone, $lead.Person_Time_Zone, $defaultTimeZone] )
 #foreach( $aptPTZ in $personTimeZones )
 #if( $display.alt($optimumTimeZone,"").isEmpty() && !$display.alt($aptPTZ,"").isEmpty() )
